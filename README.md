@@ -84,5 +84,3 @@ This API is designed to provide backend services for mobile/web applications suc
 ## 📜 License
 
 This project is licensed under my concern
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
