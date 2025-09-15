@@ -44,6 +44,9 @@ This API is designed to provide backend services for mobile/web applications suc
 
 5. Start development server
 
+   check your ip (`ip config`) -> get ipv4 address
+
+   php artisan serve --host=your_ip_address --port=8000
    php artisan serve --host=192.168.1.7 --port=8000
 
    App will be available at: http://192.168.1.7:8000
