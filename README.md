@@ -40,11 +40,13 @@ This API is designed to provide backend services for mobile/web applications suc
    DB_USERNAME=root  
    DB_PASSWORD=
 
+4. Create a database with the name "dbo" then import dbo.sql (public folder)
+
 5. Start development server
 
-   php artisan serve
+   php artisan serve --host=192.168.1.7 --port=8000
 
-   App will be available at: http://127.0.0.1:8000
+   App will be available at: http://192.168.1.7:8000
 
 ---
 
